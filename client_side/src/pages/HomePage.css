@@ -1,0 +1,33 @@
+/* 
+.collabs-cotainer{
+    position:absolute;
+    bottom: 0px;
+    right: 0;
+    
+}
+.txt{
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.homepage{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    white-space: nowrap;
+    /* flex-flow: row; */
+
+*/
+
+p{
+    color: wheat;
+}
+
+
+
+
+
+
+
