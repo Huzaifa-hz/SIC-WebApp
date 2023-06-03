@@ -14,9 +14,9 @@ function App() {
   return (
    
     <div className='app'>
-       <div><img src={Logo} alt="SIC LOGO" className='logo-big'/></div>
+       <div className='img-div'><img src={Logo} alt="SIC LOGO" className='logo-big'/></div>
        <div className='myPages'>
-        <Navbar/>
+        <Navbar className='nav-bar'/>
         <Routes>
         <Route path='/' element={<HomePage/>}/>
         <Route path='/events' element={<Events/>}/>

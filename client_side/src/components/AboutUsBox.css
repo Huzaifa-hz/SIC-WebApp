@@ -1,0 +1,28 @@
+.box{
+    border:10px solid whitesmoke ;
+    border-radius: 20px;
+    padding:30px;
+    width: 300px;
+    margin:50px auto;
+    
+
+}
+
+.heading{
+    color:white;
+    font-size: 35px;
+    width:fit-content;
+    margin:auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.description{
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
